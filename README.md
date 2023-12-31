@@ -7,8 +7,9 @@ These could include:
 --> Strucural Analysis of Airframes  
 --> Power Circuit Design and Analysis   
 --> Signal Processing and Visualisation  
+--> Control System Design  
 
-Along with this is I am also undertaking 2 Codecademy cources, "Full Stack Engineering" & "Data Science - Machine Learning Specialisation", which is where the rest of the Languages and Frameworks come from. Yes i know, that means I'm teaching myslef, so any tips would be much appreciated!  
+Along with this is I am also undertaking 2 Codecademy cources, "Full Stack Engineering" & "Data Science - Machine Learning Specialisation", which is where the rest of the Languages and Frameworks come from. Yes i know, that means I'm teaching myself, so any tips would be much appreciated!  
 
 
 Would I like this to be a career avenue? Potentially  
