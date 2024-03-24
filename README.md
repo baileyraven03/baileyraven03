@@ -9,9 +9,7 @@ These could include:
 --> Signal Processing and Visualisation  
 --> Control System Design  
 
-Along with this is I am also undertaking 2 Codecademy cources, "Full Stack Engineering" & "Data Science - Machine Learning Specialisation", which is where the rest of the Languages and Frameworks come from. Yes i know, that means I'm teaching myself, so any tips would be much appreciated!  
-In the near future I should have a software development brand out, Which i will not only link to the left but also detail the majority of source code here. This should be live by the back end of summer 2024 and wil eventually cater for hardware design too!  
-
+Along with this, I am also looking to develop my machine learning skills. I'm doing this using courses on Codecademy and Kaggle. Keep up to date here where I will (hopefully) post more complex models as time goes on.
 
 Would I like this to be a career avenue? Potentially  
 Would I like to be profficent enough to show off to people? Absolutely  
