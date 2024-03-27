@@ -2,7 +2,7 @@
 
 An undergraduate MEng Aerosapce Engineering student @ The University of Sheffield (South Yorkshire, UK), with a specialisation in avionic systems. 
 I have an desire to develop my software skills both for 'work' and for personal use, hense this profile.  
-I use MatLab (w/ Simulink) & C regularly as apart of my systems engineering, so there may be scripts here. 
+I use MatLab (w/ Simulink) & C regularly as apart of my systems and electrical engineering, so there may be scripts here. 
 These could include:  
 --> Strucural Analysis of Airframes  
 --> Power Circuit Design and Analysis   
