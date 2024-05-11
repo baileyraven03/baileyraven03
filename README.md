@@ -5,7 +5,7 @@ I have a desire to develop my software skills both for 'work' and for personal u
 I use MatLab (w/ Simulink) & C regularly as apart of my systems and electrical engineering, so there may be scripts here. 
 These could include:    
 --> Power Circuit Design and Analysis   
---> Signal Processing and Visualisation  
+--> Signal Processing, Modulation & Demodulation  
 --> Control System Design  
 
 Along with this, I am also looking to develop my machine learning skills. I'm doing this using courses on Codecademy and Kaggle. Keep up to date here where I will (hopefully) post more complex models as time goes on.
