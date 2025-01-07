@@ -10,6 +10,12 @@ These could include:
 Along with this, I am developing my machine learning skills, using both supervised and unsupervised learning algorithms.
 I'm doing this using courses on Codecademy and Kaggle. Keep up to date here where I will (hopefully) post more complex models as time goes on.
 
+Proficient with:
+Pyhton3, C & Matlab (Simulink) 
+
+Experienced with:
+HTML5, CSS3, SQL, JavaScript & C++
+
 Would I like this to be a career avenue? Potentially  
 Would I like to be profficent enough to show off to people? Absolutely  
 
